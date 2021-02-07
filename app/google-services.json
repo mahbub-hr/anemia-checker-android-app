@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554041717313",
+    "firebase_url": "https://patientmodule-a8a54.firebaseio.com",
+    "project_id": "patientmodule-a8a54",
+    "storage_bucket": "patientmodule-a8a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554041717313:android:bb5725cb694830fa",
+        "android_client_info": {
+          "package_name": "com.example.patientmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554041717313-ehj49a2m6s1pb4igcobhhqpmfqo7g0uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientmodule",
+            "certificate_hash": "fbc94d0cecde99cdfe51ce9ceef30fe5c1619f1e"
+          }
+        },
+        {
+          "client_id": "554041717313-rd1h2bo5fqdidv36gt2fp9td0rnka5js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4QTmSQAv2eldKeNPqlp7xBHtB2l4tqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554041717313-rd1h2bo5fqdidv36gt2fp9td0rnka5js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

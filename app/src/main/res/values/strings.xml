@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PatientModule</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="enter_otp_code">Enter OTP code</string>
+    <string name="login">Login</string>
+    <string name="enter_the_code">Enter the code</string>
+    <string name="btn_continue">Continue</string>
+    <string name="mobile_no">mobile no</string>
+    <string name="hint_email">Email/Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hint_phone">Enter your phone number</string>
+    <string name="hint_age">Enter your age</string>
+    <string name="configure">Configure</string>
+    <string name="btn_OK">Ok</string>
+    <string name="hint_ip_enter">Enter server ip address</string>
+
+
+</resources>
